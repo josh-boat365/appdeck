@@ -26,7 +26,7 @@ import AyeyiTechLogo from '/public/AT-long-logo-dark.png'
 
           <div>
             <div class="flex items-center justify-between">
-              <label for="password" class="block text-sm/6 font-medium text-gray-950">Password</label>
+              <label for="password" class="block text-sm/6 font-medium text-blue-950">Password</label>
             </div>
             <div class="mt-2">
               <input type="password" name="password" id="password" autocomplete="current-password" required
@@ -35,7 +35,7 @@ import AyeyiTechLogo from '/public/AT-long-logo-dark.png'
           </div>
 
           <div class="flex items-center justify-between">
-            <label for="" class="flex gap-3 text-blue-950 items-center py-1">
+            <label for="" class="flex gap-3 text-sm text-blue-950 items-center py-1">
               <input type="checkbox" name="" id="">
               Remember me
             </label>
@@ -50,7 +50,7 @@ import AyeyiTechLogo from '/public/AT-long-logo-dark.png'
               in</button>
           </div>
 
-          <div class="flex gap-2 items-center justify-center">
+          <div class="flex gap-2 items-center text-sm justify-center">
             <hr class="w-1/4 border-gray-300">
             Or Continue with
             <hr class="w-1/4 border-gray-300">
